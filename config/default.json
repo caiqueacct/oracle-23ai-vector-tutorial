@@ -1,0 +1,18 @@
+{
+    "oracle": {
+        "tableName": "vectortest1",
+        "oracleHome": "/opt/oracle/instantclient_23_8",
+        "connectionInfo": {
+            "username": "",
+            "password": "",
+            "23ai": {
+                "tnsAdmin": "/opt/oracle/instantclient_23_8/network/admin/23ai/",
+                "connectString": ""
+            },
+            "19c": {
+                "tnsAdmin": "/opt/oracle/instantclient_23_8/network/admin/19c/",
+                "connectString": ""
+            }
+        }
+    }
+}

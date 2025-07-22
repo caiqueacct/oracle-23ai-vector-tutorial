@@ -1,0 +1,31 @@
+{
+  "name": "vector23ai",
+  "version": "1.0.0",
+  "description": "How to use Oracle 23ai Vector feature",
+  "keywords": [
+    "Oracle",
+    "23ai",
+    "vector"
+  ],
+  "license": "ISC",
+  "author": "Carlos Duarte",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "config": "^4.0.1",
+    "dotenv": "^17.2.0",
+    "llamaindex": "^0.5.19",
+    "log4js": "^6.9.1",
+    "oracledb": "^6.9.0",
+    "tsx": "^4.20.3"
+  },
+  "devDependencies": {
+    "@types/config": "^3.3.5",
+    "@types/oracledb": "^6.6.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
